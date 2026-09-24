@@ -1,3 +1,5 @@
+Spatial analysis of biodiversity using the [**MINKA**](https://minka-sdg.org) platform: a case study of the Catalan coast.
+
 # QGIS UTM Grid Tools
 
 Scripts for QGIS to analyze data on UTM grids.
